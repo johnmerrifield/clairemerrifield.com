@@ -88,7 +88,7 @@ div.newsflash {
  	font-weight:bold; color:#FFFF99;
 }
 div.header {
-  margin: -21px -21px 0 -21px; padding: 0 10px 0 0; border-bottom: solid 3px #FFCC99;
+  margin: -21px -21px 0 -21px; padding: -150px 10px -20px 0; border-bottom: solid 3px #FFCC99;
 }
 div.header {
 	background:  #0CF 0 0 no-repeat fixed;
