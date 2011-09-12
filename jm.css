@@ -5,7 +5,7 @@ body {
 	background: #000  0 0 no-repeat fixed;
 }
 h1{margin-bottom: 0.25em; color:#660066; text-align:right; font-style: italic;
-font-size: 30px;
+font-size: 40px;
 }
 h3 {
 	margin-bottom: 0.25em;color:#00CCFF;
@@ -89,7 +89,7 @@ div.newsflash {
  	font-weight:bold; color:#FFFF99;
 }
 div.header {
-  margin: -21px -21px 0 -21px; padding: 10px; border-bottom: solid 3px #FFCC99;
+  margin: -21px -21px 0 -21px; padding: 5px; border-bottom: solid 3px #FFCC99;
 }
 div.header {
 	background:  #0FC 0 0 no-repeat fixed;
