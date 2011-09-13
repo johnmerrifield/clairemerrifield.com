@@ -48,7 +48,7 @@ div.links a:hover {
 	color: #F93; border-color: #F93;
 }
 img#claire {
-	float:left; margin:5px; z-index: +1;
+	position: absolute;  margin:3px; z-index: +1;
 }
 imge#chalint {
 	float:left;
