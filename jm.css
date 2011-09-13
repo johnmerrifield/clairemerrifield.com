@@ -47,8 +47,8 @@ div.links a {
 div.links a:hover {
 	color: #F93; border-color: #F93;
 }
-img#claire {
-	position: absolute;  top: 103px; left: 145px; margin-bottom: 21px;
+img.claire {
+	float: left; margin: 0 10px 10px 0;
 }
 imge#chalint {
 	float:left;
@@ -71,8 +71,8 @@ image#teamrear {
 image#teamfront {
 	float:left; margin: 1.1em 10px 0 0;
 }
-image#paper {
-	float: left; margin-bottom: 50px;
+image.paper {
+	float: left;
 }
 image#fleft {
 	float:left; margin 1.1em 10px 0 0
@@ -96,8 +96,9 @@ div.header {
 div.content {
 	background:  #468 0 0 no-repeat fixed;
 }
+
 div.content {
-	position:absolute; top:60px;right: 60px; left: 142px; 
+	position:absolute; margin:0; top:60px;right: 60px; left: 142px; 
 	color: #FFC; font:14px Verdana, sans-serif; font-weight: bold; padding: 21px;
  	border:3px solid #FFCC99;
 }
