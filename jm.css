@@ -4,7 +4,7 @@ body {
 body {
 	background: #000  0 0 no-repeat fixed;
 }
-h4 {margin-bottom: 0; margin-top: -10px; color:#660066; text-align:right; font-style: italic;
+h4 {margin-bottom: 0; margin-top: 0; color:#660066; text-align:right; font-style: italic;
 font-size: 60px;
 }
 h3 {
@@ -72,7 +72,7 @@ image#teamfront {
 	float:left; margin: 1.1em 10px 0 0;
 }
 image.paper {
-	float: left;
+	float: left;  margin:0 10px 50 0;
 }
 image#fleft {
 	float:left; margin 1.1em 10px 0 0
