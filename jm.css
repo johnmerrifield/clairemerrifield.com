@@ -4,8 +4,8 @@ body {
 body {
 	background: #000  0 0 no-repeat fixed;
 }
-h4 {margin: 0 20px 0 160px; color:#660066; text-align:right; 
-font-style: italic;font-size: 60px; z-index: +1;
+h4 {margin-bottom: 0; margin-top: -10px; color:#660066; text-align:right; font-style: italic;
+font-size: 60px;
 }
 h3 {
 	margin-bottom: 0.25em;color:#00CCFF;
@@ -48,7 +48,7 @@ div.links a:hover {
 	color: #F93; border-color: #F93;
 }
 img#claire {
-	position: absolute;  margin:3px; z-index: +1;
+	position: absolute;  top: 103px; left: 145px; margin-bottom: 21px;
 }
 imge#chalint {
 	float:left;
@@ -71,10 +71,10 @@ image#teamrear {
 image#teamfront {
 	float:left; margin: 1.1em 10px 0 0;
 }
-image#mast {
-	position: absolute; border-width: 0; border-bottom: 3px solid #FFCC99;
+image#paper {
+	float: left; margin-bottom: 50px;
 }
-image.fleft {
+image#fleft {
 	float:left; margin 1.1em 10px 0 0
 }
 table {
@@ -88,16 +88,16 @@ div.newsflash {
  	font-weight:bold; color:#FFFF99;
 }
 div.header {
-  margin: -21px -21px 0 0; padding: 0 10px 0 0; border-bottom: solid 3px #FFCC99;
+  padding: 0 0 21px 0; 
 }
 div.header {
-	background:  #0CF 0 0 no-repeat fixed;
+	background:  #0CF 0 0 no-repeat fixed;  margin-top: 31px;
 }
 div.content {
 	background:  #468 0 0 no-repeat fixed;
 }
 div.content {
-	position:absolute; margin:0; top:100px;right: 60px; left: 142px; 
+	position:absolute; top:60px;right: 60px; left: 142px; 
 	color: #FFC; font:14px Verdana, sans-serif; font-weight: bold; padding: 21px;
  	border:3px solid #FFCC99;
 }
