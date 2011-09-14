@@ -15,7 +15,7 @@ h3 {
 h5 {
 	text-align:center; font-family: Arial, Helvetica, sans-serif; 
 	font-size: 12px; font-weight: normal; text-transform: lowercase; 
-	font-style: normal; line-height: 1em; margin-top: .5em; margin-bottom: .33em
+	font-style: normal; line-height: 1em; margin-top: .5em; margin-bottom: .33em;
 }
 h6 {
 	text-align: center; font-weight: normal; text-transform: lowercase; 
@@ -87,11 +87,9 @@ div.newsflash {
 	margin:0 1em 1em; font-family: Arial, Helvetica, sans-serif; font-size:16px;
  	font-weight:bold; color:#FFFF99;
 }
+
 div.header {
-  padding: 0 0 21px 0; 
-}
-div.header {
-	background:  #0CF 0 0 no-repeat fixed;  margin-top: 31px;  padding: 0 21px 0 0;
+	background:  #0CF 0 0 no-repeat fixed; padding: 21px 21px 0 0;
 }
 div.content {
 	background:  #468 0 0 no-repeat fixed;
