@@ -45,8 +45,8 @@ div.links a {
 div.links a:hover {
 	color: #F93; border-color: #F93;
 }
-image.claire {
- border: 1px solid #FFCC99;
+image#claire {
+ border: 2px solid #FFCC99;
 }
 imge#chalint {
 	float:left;
@@ -67,7 +67,6 @@ image#teamrear {
 	float:left;margin: 1.2em 10px 0 0;
 }
 image.paper {
-padding: 0 0 0 30px;
 }
 image#mast {
 	position: absolute;
