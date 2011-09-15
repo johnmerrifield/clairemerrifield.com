@@ -70,7 +70,7 @@ image#teamfront {
 	float:left; margin: 1.1em 10px 0 0;
 }
 image#mast {
-	position: absolute; border-width: 0; left: 142px;
+	position: absolute; border-width: 0; margin-left: 142px; left: 142px;
 }
 image.fleft {
 	float:left; margin 1.1em 10px 0 0
